@@ -4,7 +4,6 @@ import json
 import ast
 
 #TODO add check of entered IP address (if correct subnet or correct IP)
-#TODO add parallel threads to TCP/UDP scanner for chosen library which can use only one type at once
 #TODO Rebuild script to OOP style with scanner class for future scale
 #TODO Add script description so user knows what parameters to enter
 #Also make port range also as a parameter

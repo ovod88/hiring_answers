@@ -1,4 +1,12 @@
-Python1: I didn't find which object had a 'source' attribute, so I hardcoded it. I am  also using python 3.6.
-Ansible1: Frankly saying I didnt had such experience before, so I used documentation a lot. I believe my solution is a workaround and there is a better way to get the task done. 
+Python1: I didn't find which object had a 'source' attribute, so I hardcoded it. I am  also USING PYTHON 3.6.
+-----------------------------
+Ansible1: Frankly saying I didn't have such experience before, so I have used the documentation a lot. I believe my solution is a workaround and there is a better way to get the task done. 
+-----------------------------
 Docker1: Done
-Python2: I AM USING PYTHON 3.6. Here I used a part of my own script to calculate IP addresses list (subnet calculator). This script is not ideal (I didnt implement any needed verifications of entered values or all possible exceptions). And it implies that user enters a correct IP and mask. I added comments to script with my ideas. I also tested it on my loopback IPs 127.0.0.x. I also silently dropped catched exceptions.
+-----------------------------
+Python2: I AM USING PYTHON 3.6. Here I used a part of my own script to calculate IP addresses list (subnet calculator). This script is not ideal (I didn't implement any needed verifications of entered values or all possible exceptions). And it implies that user enters a correct IP and mask. I added comments to script with my ideas. I also tested it on my loopback IPs 127.0.0.x only. I also silently dropped catched exceptions.
+-----------------------------
+Syslog: I was told to complete the tasks till the end of the week. So time is up and I leave this task. But it seems to be not very difficult - just check docs on how to configure rsyslog config file.
+-----------------------------
+Ansible2: Frankly saying I am not familiar with Ansible roles. So it would take me a lot of time to solve it.
+-----------------------------
